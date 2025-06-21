@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 
-
+Запуск приложения
 ```bash
 streamlit run test_task.py
 ```
@@ -34,7 +34,7 @@ streamlit run test_task.py
 
 ## Фильтрация
 
-После получения саммари япроисходит:
+После получения саммари происходит:
 
 1. ai-forever/sbert_large_nlu_ru
 С его помощью я удаляю дублирующие по смыслу фразы 
